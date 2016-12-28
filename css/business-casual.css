@@ -40,7 +40,6 @@ hr {
 .brand,
 .address-bar {
     display: none;
-    color: #ffb600;
 }
 
 .navbar-brand {
@@ -125,7 +124,7 @@ footer p {
         font-size: 5em;
         font-weight: 700;
         line-height: normal;
-        /*color: #fff;*/
+        color: #fff;
     }
 
     .top-divider {
@@ -147,7 +146,7 @@ footer p {
         font-size: 1.25em;
         font-weight: 400;
         letter-spacing: 3px;
-        /*color: #fff;*/
+        color: #fff;
     }
 
     .navbar {
